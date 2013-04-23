@@ -1,3 +1,7 @@
+Fork Notes
+-----------
+This repository forks the original Valkyrie repository found at svn://svn.valgrind.org/valkyrie from HEAD=r546
+The intention of this fork is to revive the vk_logmerge tool which then should be able to process XML output of more recent version of Valgrind.
 
 Release Notes for Valkyrie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
